@@ -7,6 +7,10 @@
 # Setup Guide:
   1. Clone the repo using `git clone https://github.com/das-subhasis/Weather-Forecast-App.git` or you can download it directly into your local system.
   2. Go to the folder and open a compiler inside it.
-  3. execute the followinfg command :
-     - `npm install -D tailwindcss postcss autoprefixer`
-     - `npx tailwindcss init -p`
+  3. Execute the following command :
+  ```
+     npm install -D tailwindcss postcss autoprefixer
+     npx tailwindcss init -p
+     npm run dev
+  ```
+  4. Exit the website by pressing `ctrl + c` inside the console and press **Y**.
