@@ -1,6 +1,6 @@
 ## Weather Forecasting App With React.js
 
-# Hosted link: `https://das-subhasis.github.io/Weather-Forecast-App/`
+ Hosted link: `https://das-subhasis.github.io/Weather-Forecast-App/`
 
 !! Prerequisites : 
   To use this app you will be needing the following softwares installed on your system:
